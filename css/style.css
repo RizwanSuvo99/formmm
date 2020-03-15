@@ -1,0 +1,74 @@
+  body {
+         margin: 0;
+         padding: 0;
+         width: 40%;
+         height: 600px;
+         margin: auto;
+         font-family: monospace;
+ }
+ h3 {
+     margin: 0;
+     padding: 0;
+     background-color: #D97A07;
+     height: 50px;
+     width: 100%;
+     color: white;
+     padding-top: 15px;
+     font-size: 25px;
+
+ }
+
+ .bodyDiv {
+     height: 400px;
+     width: 100%;
+     background-color: #292F40;
+
+ }
+
+ /*.bodyDiv label,input,select{
+            margin: 8px;
+        }*/
+ label {
+     color: #F2D49B;
+     font-size: 20px;
+ }
+
+ .mainDiv {
+     margin-top: 50px;
+
+ }
+
+ font {
+     color: white;
+ }
+
+ .footer {
+     background-color: #D97A07;
+     height: 50px;
+     width: 100%;
+ }
+
+
+ .button {
+     height: 30px;
+     border-radius: 3px;
+     font-family: inherit;
+     font-weight: bold;
+     color: white;
+     border: none;
+     text-align: center;
+
+ }
+
+ #terms {
+     font-size: 20px;
+ }
+
+ .terms {
+     margin-left: 70px;
+ }
+
+ input,
+ select {
+     background-color: #F2D49B;
+ }
